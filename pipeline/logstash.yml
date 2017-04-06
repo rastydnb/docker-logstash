@@ -1,5 +1,5 @@
 xpack.monitoring.elasticsearch.url: "http://elasticsearch:9200"
-xpack.monitoring.elasticsearch.username: "logstash_system"
+xpack.monitoring.elasticsearch.username: "elastic"
 xpack.monitoring.elasticsearch.password: "azs12olp"
 # Settings file in YAML
 #
